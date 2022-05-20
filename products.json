@@ -1,0 +1,51 @@
+[
+    {
+        "name":"Rims",
+        "price":"250$",
+        "image":"BBS-Super_RS_30_Degree_gold.png",
+        "description":"A classic BBS rim style that goes good with any luxury vehicle"
+
+    },
+
+    {
+        "name":"Rims",
+        "price":"250$",
+        "image":"TLA0101_SatinBlack_001.png",
+        "description":"A modern style that compliments any car no matter what"
+
+    },
+
+    {
+        "name":"Rims",
+        "price":"250$",
+        "image":"CH_R_103_BrilliantSilver_003.png",
+        "description":"The classic silver that matches with cars of any kind"
+
+    },
+
+    {
+        "name":"Steering Wheels",
+        "price":"150$",
+        "image":"0000126_r-353_550.jpeg",
+        "description":""
+
+    },
+
+    {
+        "name":"Steering Wheels",
+        "price":"150$",
+        "image":"0000274_r-215_550.jpeg" ,
+        "description":""
+
+    },
+
+
+    {
+        "name":"Steering Wheels",
+        "price":"150$",
+        "image":"0000276_r-345_550.jpeg",
+        "description":""
+
+    }
+
+]
